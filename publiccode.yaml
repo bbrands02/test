@@ -1,7 +1,7 @@
 publiccodeYmlVersion: "0.1"
 
-name: "PetStoreAPI"
-url: "https://github.com/CommonGateway/PetStoreAPI"
+name: "test"
+url: "https://github.com/bbrands02/test"
 releaseDate: "2022-06-04"
 
 softwareType: configurationFiles
@@ -24,15 +24,15 @@ developmentStatus: beta
 
 description:
   nl:
-    shortDescription: "PetStoreAPI"
-    documentation: 'https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/CommonGateway/PetStoreAPI/main/OAS.yaml&nocors'
-    apiDocumentation: 'https://raw.githubusercontent.com/CommonGateway/PetStoreAPI/main/OAS.yaml'
-    # testDataLocation: 'https://raw.githubusercontent.com/CommonGateway/PetStoreAPI/main/data/data.json'
+    shortDescription: "test"
+    documentation: 'https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/bbrands02/test/main/OAS.yaml&nocors'
+    apiDocumentation: 'https://raw.githubusercontent.com/bbrands02/test/main/OAS.yaml'
+    # testDataLocation: 'https://raw.githubusercontent.com/bbrands02/test/main/data/data.json'
   en:
-    shortDescription: "PetStoreAPI"
-    documentation: 'https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/CommonGateway/PetStoreAPI/main/OAS.yaml&nocors'
-    apiDocumentation: 'https://raw.githubusercontent.com/CommonGateway/PetStoreAPI/main/OAS.yaml'
-    # testDataLocation: 'https://raw.githubusercontent.com/CommonGateway/PetStoreAPI/main/data/data.json'
+    shortDescription: "test"
+    documentation: 'https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/bbrands02/test/main/OAS.yaml&nocors'
+    apiDocumentation: 'https://raw.githubusercontent.com/bbrands02/test/main/OAS.yaml'
+    # testDataLocation: 'https://raw.githubusercontent.com/bbrands02/test/main/data/data.json'
 
 dependsOn:
   open:
